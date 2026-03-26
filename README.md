@@ -7,31 +7,12 @@
 ---
 
 ### 🚀 What I’m Working On
-* **Project Maya:** Leading the native integration of 360° photo and video capture workflows within **Trimble ProjectSight** and **Trimble Connect**.
-* **AI-Driven Reality Capture:** Developing computer vision algorithms to automatically map site walk-throughs to architectural drawings, creating a "Google Street View" experience for job sites.
-* **Strategic GTM:** Defining subscription-based business models and tier-based pricing strategies to drive predictable value for Specialty and General Contractors.
-
-### 🛠 Tech & Expertise
-* **Product Strategy:** Competitive Market Analysis, Roadmap Prioritization, and Lifecycle Management.
-* **Innovation:** Rapid Prototyping with AI, Beta Testing Frameworks, and User-Centric Design (UCD).
-* **Geospatial & ConTech:** Reality Capture (360 Photo/Video), Augmented Reality (AR), GNSS, and Common Data Environments (CDE).
-* **Leadership:** Empathetic Leadership, Growth Mindset, and Cross-Functional Team Building.
-
-### 📚 Core Philosophies
-I believe that the best products are built on a foundation of trust and human-centric insights. My leadership style is influenced by:
-* **Starting with Why:** Focusing on the purpose behind innovation.
-* **The Infinite Game:** Building for long-term resilience and sustainable growth.
-* **Zone to Win:** Disciplined execution across different innovation horizons.
+* **ProjectSight 360 Capture:** Leading the native integration of 360° photo and video capture workflows within **Trimble ProjectSight** and **Trimble Connect**.
+* **AI-Driven Reality Capture:** Developing seamless workflows that blend the digital and physical worlds to produce actionable insights with AI.
+* **Rapid Prototyping & Experimentation:** Working with Cursor, Claude Code, and other tools to rapidly test ideas, validate with customers, and inform our revenue driving roadmap.
 
 ---
 
 ### 📫 Connect with Me
 * **LinkedIn:** [linkedin.com/in/nathan-n-patton/](https://www.linkedin.com/in/nathan-n-patton/)
 * **Location:** Denver, CO
-
----
-
-### 📈 Professional Highlights (Trimble)
-* **Sr. Product Manager:** Owned transformative AI-driven strategic initiatives.
-* **Growth:** Spearheaded GTM strategies delivering **77% YoY growth** in GNSS Building Construction.
-* **Transformation:** Championed subscription models resulting in **80% YoY ARR growth** across the Field Systems portfolio.
