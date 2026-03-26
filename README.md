@@ -2,7 +2,7 @@
 
 ### Product Leader | Strategy & Innovation
 
-**Customer obsessed geospatial nerd building AI-Native workflows to bridge the gap between Design and Reality.** I am a results-driven Product Manager with a proven track record of taking "moonshot" ideas from initial concept to global scale. My work focuses on democratizing complex technology—like Computer Vision and Reality Capture—by building intuitive solutions that **"raise the ceiling and lower the floor"** for users across the construction industry.
+**Customer obsessed geospatial nerd building AI-Native workflows to bridge the gap between Design and Reality.** I am a results-driven Product Manager with a proven track record of taking "moonshot" ideas from initial concept to global scale. My work focuses on democratizing complex technology by building intuitive solutions that **"raise the ceiling and lower the floor"** for users across the construction industry.
 
 ---
 
