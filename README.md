@@ -14,5 +14,5 @@
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn:** [linkedin.com/in/nathan-n-patton/](https://www.linkedin.com/in/nathan-n-patton/)
+* **LinkedIn:** [in/nathan-n-patton/](https://www.linkedin.com/in/nathan-n-patton/)
 * **Location:** Denver, CO
