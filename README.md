@@ -1,6 +1,6 @@
-# Hi, I'm Nathan Patton 👋
+# Hi, I'm Nathan 
 
-### Product Leader | Strategy & Innovation
+### Product Leader | Reality Capture & AI
 
 **Customer obsessed geospatial nerd building AI-Native workflows to bridge the gap between Design and Reality.** I am a results-driven Product Manager with a proven track record of taking "moonshot" ideas from initial concept to global scale. My work focuses on democratizing complex technology by building intuitive solutions that **"raise the ceiling and lower the floor"** for users across the construction industry.
 
